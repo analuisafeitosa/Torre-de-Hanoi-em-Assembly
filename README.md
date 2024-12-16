@@ -8,7 +8,7 @@ Este documento descreve detalhadamente o funcionamento do código Assembly que i
 * Lucas dos Santos
 ---
 ## Como rodar o código
-* Utilize um compilador online (https://www.tutorialspoint.com/compile_assembly_online.php)
+* Utilize um compilador online (https://www.tutorialspoint.com/compile_assembly_online.php | https://www.jdoodle.com/compile-assembler-nasm-online)
 * Execute o codigo presente no repositorio pelo emulador
 * Verifique as saidas na tela 
 ---
